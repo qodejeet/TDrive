@@ -7,12 +7,12 @@ version: '3'
 
 # This information is used to generate the build assets.
 info:
-  companyName: "Jeetraj"
-  productName: "TDrive"
-  productIdentifier: "com.jeetraj.tdrive"
-  description: "Use a private Telegram channel as cloud storage"
-  copyright: "© 2026, Jeetraj"
-  comments: "Use a private Telegram channel as cloud storage"
+  companyName: "Jeetrawar"
+  productName: "Jorawar Classes"
+  productIdentifier: "com.jorawarclasses.desktop"
+  description: "Use a private Telegram channel as own study app"
+  copyright: "© 2026, Jeetrawar"
+  comments: "Use a private Telegram channel as own study app"
   version: "2.2.0"
 
 # iOS bundle settings, read by `wails3 ios xcode:gen` (these override `info`).
