@@ -1,7 +1,7 @@
 version: '3'
 
 vars:
-  APP_NAME: "TDrive"
+  APP_NAME: "Jorawar Classes"
   # Kept at build/bin (not v3's default bin/) so release.yml, ci.yml and
   # scripts/package-mpv-darwin.sh don't need every "build/bin" path rewritten.
   BIN_DIR: "build/bin"
